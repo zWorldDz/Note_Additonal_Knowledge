@@ -1,0 +1,12 @@
+CI : Continuous Integration
+- Commit to a single repo(CodeCommit/Github)
+- A process of testing and validating the new code
+- Detect of integration bugs as early as possible
+
+CD : Continuous Deployment/Delivery
+- Manual deploy to production = Continuous Delivery
+- Auto deploy to production = Continuous Deployment
+- Deploy to server after the tests are all passed
+
+Tool for performming CI/CD
+- Jenkins
